@@ -37,24 +37,24 @@ Certifique-se de ter o Python 3 instalado em sua máquina. Para rodar o programa
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/manipulando-nomes-python.git
+   git clone https://github.com/Pablo-Henrique-IA/atividade-BI-10-03-2025.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd manipulando-nomes-python
+   cd atividade-BI-10-03-2025
    ```
 3. Execute o script:
    ```bash
-   python nome_programa.py
+   python atividade-bi.py
    ```
    ou, se necessário:
    ```bash
-   python3 nome_programa.py
+   python3 atividade-bi.py
    ```
 
 ## Estrutura do Projeto
 
-- **nome_programa.py:** Código principal que implementa a funcionalidade de manipulação dos nomes.
+- **atividade-bi.py:** Código principal que implementa a funcionalidade de manipulação dos nomes.
 - **README.md:** Este arquivo, com informações sobre o projeto.
 
 ## Contribuições
